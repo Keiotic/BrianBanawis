@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Brian Joshua Banawis</h1>
-<h3 align="center">A passionate Network Engineer from the Philippines</h3>
+# Hi there, I'm [Your Name] 👋
 
-- 🌱 I’m currently learning **Python**
+I am a passionate **Network Engineer** with a strong background in designing, implementing, and managing networks. My expertise spans across network infrastructure, cybersecurity, troubleshooting, and cloud technologies.
 
-- 👯 I’m looking to collaborate on **Network projects**
+### 🚀 About Me:
+- 🔧 **Network Engineer** focused on ensuring efficient and secure network architecture.
+- 🌐 Skilled in configuring routers, switches, firewalls, and other network devices.
+- 💻 Passionate about automating network tasks with scripting and DevOps tools.
+- 🔍 Enthusiastic about network performance monitoring and optimization.
 
-- 📫 How to reach me **brianbanawis@gmail.com**
+### 🛠️ Technologies & Tools:
+- **Networking**: Cisco, Juniper, Mikrotik, Huawei, VPNs, SD-WAN, LAN/WAN
+- **Protocols**: TCP/IP, BGP, OSPF, EIGRP, MPLS
+- **Tools**: Wireshark, SolarWinds, NetFlow, Nagios, NagiosXI
+- **Security**: Firewalls (ASA, Fortinet), IDS/IPS, VPN, SSL/TLS
+- **Cloud & Virtualization**: AWS, Azure, VMware, Cisco ACI
+- **Scripting & Automation**: Python, Bash, Ansible, Terraform
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/brianbanawis/](https://www.linkedin.com/in/brianbanawis/)
+### 📚 What I’m Learning:
+- Network automation and orchestration.
+- Advanced cybersecurity practices and tools.
+- Cloud-based networking technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/thekeioticintrovert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thekeioticintrovert/" height="30" width="40" /></a>
-</p>
+### 🌱 I’m Currently Working On:
+- Configuring and managing network infrastructures in cloud environments.
+- Optimizing WAN performance with SD-WAN solutions.
+- Learning more about network automation with Python and Ansible.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+### 🔗 Connect with Me:
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email Address]
+- Twitter: [Your Twitter Handle]
+
+![Profile Picture](https://link_to_your_image.com)
