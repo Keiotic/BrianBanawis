@@ -29,5 +29,5 @@ I am a passionate **Network Engineer** with a strong background in designing, im
 - Learning more about network automation with Python and Ansible.
 
 ### 🔗 Connect with Me:
-- LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/brianbanawis/)
-- Email: [Your Email Address]brianbanawis@gmail.com
+- LinkedIn: www.linkedin.com/in/brianbanawis
+- Email: brianbanawis@gmail.com
