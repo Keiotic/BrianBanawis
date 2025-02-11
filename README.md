@@ -1,5 +1,4 @@
 # Hi there, I'm Brian Joshua Banawis👋
-![1653901188537](https://github.com/user-attachments/assets/1468b07c-e4c4-443e-8134-9cd9b13b9009)
 
 I am a passionate **Network Engineer** with a strong background in designing, implementing, and managing networks. My expertise spans across network infrastructure, cybersecurity, troubleshooting, and cloud technologies.
 
