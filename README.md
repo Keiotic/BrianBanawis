@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Brian Joshua Banawis👋
 
 I am a passionate **Network Engineer** with a strong background in designing, implementing, and managing networks. My expertise spans across network infrastructure, cybersecurity, troubleshooting, and cloud technologies.
 
